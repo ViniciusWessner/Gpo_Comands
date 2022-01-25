@@ -1,4 +1,4 @@
-# Comandos utilizados para updates/force updates via GPO
+# Comandos para updates/force updates GPO
 * Todos os comandos deverão ser executados no PowerShell, algumas alteraçoes como WALPAPPER DE TELA poderão apenas funcionar somente após a reinicialização
 
 ### Reaplicar todas as políticas
