@@ -14,4 +14,4 @@
 ### É necessário realizarmos a reinicialização do computador, por exemplo, quando você cria alterações no papel de parede de um grupo para isso, utilizamos o comando abaixo.
         GPUpdate /boot
 
-<img src="https://github.com/ViniciusWessner/Gpo_Comands/blob/main/imagens/updategpo.PNG" alt="Give india logo" width="200" />
+<img src="https://github.com/ViniciusWessner/Gpo_Comands/blob/main/imagens/updategpo.PNG" alt="option" width="200" />
