@@ -19,8 +19,9 @@
         GPUpdate /boot
 ### Atualizar GPO por interface
 * Você pode iniciar uma atualização de política de grupo em uma UO inteira com o Console de Gerenciamento de Política de Grupo. Tem que ser uma UO com apenas objetos de computador, então você não pode usar o método em uma UO de usuário. Basta clicar com o botão direito do mouse na UO onde você alterou uma política e clicar em Group Policy Update
-Isso atualizará as políticas do usuário e do computador em todos os computadores da unidade organizacional especificada. O bom é que ele irá confirmar e mostrar quantos computadores serão atualizados.
+Isso atualizará as políticas do usuário e do computador em todos os computadores da unidade organizacional especificada.
 <br>
 <img src="https://github.com/ViniciusWessner/Gpo_Comands/blob/main/imagens/updategpo.PNG" alt="option" width="500" align="center" />
 
+*  O bom é que ele irá confirmar e mostrar quantos computadores serão atualizados e desligados.
 <img src="https://github.com/ViniciusWessner/Gpo_Comands/blob/main/imagens/aposupdate.PNG" alt="option" width="500" align="center" />
